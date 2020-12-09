@@ -1,4 +1,4 @@
-Получившаяся ветка master и удаленная ветка demo различаются содержанием файла README:
+1. Получившаяся ветка master и удаленная ветка demo различаются содержанием файла README:
 
 README ветки demo имеет следующее содержание:
 
@@ -11,3 +11,29 @@ You must receive some image as in demo branch
 Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 
 You must receive some image as in demo branch
+
+2. В удаленном репозитории я вижу 11 коммитов в ветке master и 7 коммитов в ветке boots_button
+
+В master ветке я вижу следующие комментарии коммитов:
+
+1. Hometask
+2. Merge branch 'boots_button'
+3. Merge remote-tracking branch 'origin/hat'
+4. Merge remote-tracking branch 'origin/buttons' into boots_button
+5. Merge remote-tracking branch 'origin/boots' into boots_button
+6. fix readme
+7. dots
+8. README added
+9. boots
+10. heat added
+11. init
+
+В boots_button ветке я вижу следующие комментарии коммитов:
+
+1. Merge remote-tracking branch 'origin/buttons' into boots_button
+2. Merge remote-tracking branch 'origin/boots' into boots_button
+3. fix readme
+4. dots
+5. README added
+6. boots
+7. init
